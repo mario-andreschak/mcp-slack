@@ -1,8 +1,8 @@
-```json
+```
 npm install
 ```
 
-```json
+```
 npm run build
 ```
 
