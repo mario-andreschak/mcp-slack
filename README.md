@@ -1,3 +1,6 @@
+This Repository is a standalone version of the subtree https://github.com/modelcontextprotocol/servers/tree/main/src/slack .
+It changes the tsconfig.json to be compilable without the parent directories and provides all the data needed for automatic installation with FLUJO (.env.example, proper README.md)
+
 ```
 npm install
 ```
